@@ -21,7 +21,7 @@ def profile_me():
     
     
 with cProfile.Profile() as profile:
-    #Function calls 
+    #main functio call 
     profile_me()  
 results=pstats.Stats(profile)
 results.sort_stats(pstats.SortKey.TIME)

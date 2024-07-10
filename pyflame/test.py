@@ -11,7 +11,7 @@ def subtract(a,b):
 def profile_me():
     
     x = np.array(range(10**7))
-    y = np.array(np.random.uniform(0, 100, size=(10**7)))
+    y = np.array(np.random.uniform(0, 100, size=(10**7))) #
     z=add(x,y)
     m= np. array(range(10**7))
     a=subtract(z,m)

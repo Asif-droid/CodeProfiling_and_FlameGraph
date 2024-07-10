@@ -13,5 +13,6 @@ def profile_me():
     print(a)
     print('ended')
 if __name__=="__main__":    
+    profile_me() # generates log file for both funcs
     profile_me()
-    profile_me()
+    

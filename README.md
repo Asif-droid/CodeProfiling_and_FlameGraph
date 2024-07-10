@@ -27,7 +27,8 @@ Run the python scripts normally with ` python <script.py>`
 ``` console
 tuna <path_to_results.prof>
 ```
-
+* # For jupyter notebook
+same just change the results.prof file path to drive and after downloading the ` results.prof` file it can be opend in the same way with tuna.
 # Memory Profiler
 
 * # Installation
@@ -64,7 +65,7 @@ python -m pip install pyflame
 pip install pyflame
 ```
 Download [flamegraph.pl](https://github.com/brendangregg/FlameGraph/blob/master/flamegraph.pl) to generate flame graph.
-
+* # Usage
 No need to change anything the code. Just run the python script using this command.
 ``` console
 python3 -m pyflame -p <path_to_flamegraph.pl> -o <path_to_output_file.svg>  <main_script.py>
@@ -76,6 +77,7 @@ Open the svg file with borwser for better understanding of the call stack.
 ``` console
 python3 -m pip install -U scalene
 ```
+* # Usage
 There are lots of options available with scalene.
 to see run ` scalene -h `
 
@@ -83,5 +85,24 @@ to see run ` scalene -h `
 ``` console
 scalene --html --outfile <path_to_output.html>  <main_script.py>
 ```
+* # For jupyter notebook
+* Installation:
+` pip install scalene`
+* load scalene ` %load_ext scalene`
+* Usage:add ` %%scalene` at the top of the cell that has to be profiled
+``` console
+%%scalene
+def profile_me():
+    x = np.array(range(10**7))
+    y = np.array(np.random.uniform(0, 100, size=(10**7)))
+    z=x+y
+    m= np. array(range(10**7))
+    a=z-m
+    print(a)
+    print('ended')
 
-* Note: Most of the profiling was done in wsl and linux machine. There are some limitations in windows.
+profile_me()
+```
+Running the cell will generate a result of cpu runtime for the cell. Memory profiling is not available in .ipynb files. 
+
+- Note: Most of the profiling was done in wsl and linux machine. There are some limitations in windows.
