@@ -1,4 +1,7 @@
-
+## Code profiling
+Code profiling is a crucial aspect of performance optimization and debugging in software development. It involves the analysis of a program's runtime behavior to identify performance bottlenecks, memory usage issues, and other inefficiencies. Profiling provides detailed insights into how a program executes, which functions consume the most time, and how resources are utilized during execution.
+## Flame graph:
+Flame graphs are a powerful visualization tool used to represent the performance profile of software applications. They are particularly useful for understanding where an application spends most of its time during execution, helping to identify performance bottlenecks and optimize code.
 # cProfiler
 * # Installation
 cProfile, pstats are already installed with python need to install tuna to visalize call stack
