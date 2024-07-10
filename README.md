@@ -1,7 +1,7 @@
 
 # cProfiler
 * # Installation
-cProfile, pstats are already intalled with python need to install tuna to visalize call stack
+cProfile, pstats are already installed with python need to install tuna to visalize call stack
 ``` console 
 pip install tuna
 ``` 
