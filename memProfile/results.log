@@ -1,0 +1,32 @@
+Filename: /mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/memProfile/test.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+     5     60.6 MiB     60.6 MiB           1   @profile(stream=out_file)
+     6                                         def profile_me():
+     7                                             
+     8    138.1 MiB     77.5 MiB           1       x = np.array(range(10**7))
+     9    214.5 MiB     76.4 MiB           1       y = np.array(np.random.uniform(0, 100, size=(10**7)))
+    10    290.7 MiB     76.1 MiB           1       z=x+y
+    11    367.2 MiB     76.5 MiB           1       m= np. array(range(10**7))
+    12    443.4 MiB     76.2 MiB           1       a=z-m
+    13    443.4 MiB      0.0 MiB           1       print(a)
+    14    443.4 MiB      0.0 MiB           1       print('ended')
+
+
+Filename: /mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/memProfile/test.py
+
+Line #    Mem usage    Increment  Occurrences   Line Contents
+=============================================================
+     5     62.0 MiB     62.0 MiB           1   @profile(stream=out_file)
+     6                                         def profile_me():
+     7                                             
+     8    138.3 MiB     76.3 MiB           1       x = np.array(range(10**7))
+     9    214.6 MiB     76.3 MiB           1       y = np.array(np.random.uniform(0, 100, size=(10**7)))
+    10    290.7 MiB     76.1 MiB           1       z=x+y
+    11    367.2 MiB     76.5 MiB           1       m= np. array(range(10**7))
+    12    443.4 MiB     76.2 MiB           1       a=z-m
+    13    443.4 MiB      0.0 MiB           1       print(a)
+    14    443.4 MiB      0.0 MiB           1       print('ended')
+
+

@@ -1,0 +1,1748 @@
+{
+    "alloc_samples": 140,
+    "args": [
+        "test.py"
+    ],
+    "elapsed_time_sec": 3.587118625640869,
+    "entrypoint_dir": "/mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/scalene",
+    "filename": "/mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/scalene",
+    "files": {
+        "/mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/scalene/test.py": {
+            "functions": [
+                {
+                    "line": "profile_me",
+                    "lineno": 14,
+                    "memory_samples": [
+                        [
+                            1498764672,
+                            82.24852561950684
+                        ],
+                        [
+                            1498772951,
+                            102.24856376647949
+                        ],
+                        [
+                            1498775725,
+                            112.24859428405762
+                        ],
+                        [
+                            1498784493,
+                            162.24872398376465
+                        ],
+                        [
+                            1498788806,
+                            172.24875450134277
+                        ],
+                        [
+                            1498791348,
+                            182.2487850189209
+                        ],
+                        [
+                            1498799715,
+                            232.24891471862793
+                        ],
+                        [
+                            1498804267,
+                            242.24894523620605
+                        ],
+                        [
+                            1498806797,
+                            252.24897575378418
+                        ],
+                        [
+                            1498813599,
+                            292.2490978240967
+                        ],
+                        [
+                            1498820355,
+                            312.24915885925293
+                        ],
+                        [
+                            1498823968,
+                            332.2492198944092
+                        ],
+                        [
+                            1498828972,
+                            362.24931144714355
+                        ],
+                        [
+                            1498832917,
+                            372.2493419647217
+                        ],
+                        [
+                            1498835765,
+                            382.2493724822998
+                        ],
+                        [
+                            1498848617,
+                            463.5298728942871
+                        ],
+                        [
+                            1498852855,
+                            453.529842376709
+                        ],
+                        [
+                            1498854567,
+                            443.52981185913086
+                        ],
+                        [
+                            1498859744,
+                            403.52968978881836
+                        ],
+                        [
+                            1498864096,
+                            393.52965927124023
+                        ],
+                        [
+                            1498865893,
+                            383.5296287536621
+                        ],
+                        [
+                            1498868651,
+                            363.52956771850586
+                        ],
+                        [
+                            1498874784,
+                            313.52941513061523
+                        ],
+                        [
+                            1498879545,
+                            303.5293846130371
+                        ],
+                        [
+                            1498889684,
+                            223.5291404724121
+                        ],
+                        [
+                            1498894340,
+                            213.52910995483398
+                        ],
+                        [
+                            1498899548,
+                            173.52898788452148
+                        ],
+                        [
+                            1498902142,
+                            163.52895736694336
+                        ],
+                        [
+                            1498903423,
+                            82.06798934936523
+                        ],
+                        [
+                            1499585942,
+                            158.4601068496704
+                        ],
+                        [
+                            1606493860,
+                            234.851469039917
+                        ],
+                        [
+                            1606499201,
+                            158.55460929870605
+                        ],
+                        [
+                            2009808413,
+                            311.05237674713135
+                        ],
+                        [
+                            2009811502,
+                            321.0524072647095
+                        ],
+                        [
+                            2009813489,
+                            331.0524377822876
+                        ],
+                        [
+                            2009818732,
+                            361.052529335022
+                        ],
+                        [
+                            2009825426,
+                            401.0526514053345
+                        ],
+                        [
+                            2009828497,
+                            411.0526819229126
+                        ],
+                        [
+                            2009840334,
+                            481.0528955459595
+                        ],
+                        [
+                            2009861404,
+                            611.0532922744751
+                        ],
+                        [
+                            2551998665,
+                            692.517746925354
+                        ],
+                        [
+                            2552002591,
+                            682.5177164077759
+                        ],
+                        [
+                            2552004499,
+                            672.5176858901978
+                        ],
+                        [
+                            2552005972,
+                            662.5176553726196
+                        ],
+                        [
+                            2552011143,
+                            622.5175333023071
+                        ],
+                        [
+                            2552013506,
+                            602.5174722671509
+                        ],
+                        [
+                            2552015028,
+                            592.5174417495728
+                        ],
+                        [
+                            2552028594,
+                            482.5171060562134
+                        ],
+                        [
+                            2552030426,
+                            472.51707553863525
+                        ],
+                        [
+                            2552040363,
+                            392.51683139801025
+                        ],
+                        [
+                            2552041605,
+                            311.05586338043213
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 74.9055589238645,
+                    "n_core_utilization": 0.005012456936546607,
+                    "n_cpu_percent_c": 2.9978010434830917,
+                    "n_cpu_percent_python": 1.3320077239728099,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 463.5298728942871,
+                    "n_malloc_mb": 1073.507064819336,
+                    "n_mallocs": 1,
+                    "n_peak_mb": 463.5298728942871,
+                    "n_python_fraction": 0.7298513551408434,
+                    "n_sys_percent": 67.65433031954868,
+                    "n_usage_fraction": 0.8756740732849471
+                }
+            ],
+            "imports": [
+                "import numpy as np",
+                "import time"
+            ],
+            "leaks": {},
+            "lines": [
+                {
+                    "end_outermost_loop": 1,
+                    "end_region_line": 1,
+                    "line": "import numpy as np\n",
+                    "lineno": 1,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 16.64080381425208,
+                    "n_core_utilization": 0.17549819315108162,
+                    "n_cpu_percent_c": 22.661813121712928,
+                    "n_cpu_percent_python": 0.7249375146249617,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 4.629110276657996,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 1,
+                    "start_region_line": 1
+                },
+                {
+                    "end_outermost_loop": 2,
+                    "end_region_line": 2,
+                    "line": "import time\n",
+                    "lineno": 2,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 2,
+                    "start_region_line": 2
+                },
+                {
+                    "end_outermost_loop": 3,
+                    "end_region_line": 3,
+                    "line": "# from scalene import profile\n",
+                    "lineno": 3,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 3,
+                    "start_region_line": 3
+                },
+                {
+                    "end_outermost_loop": 5,
+                    "end_region_line": 5,
+                    "line": "def print_out(x):\n",
+                    "lineno": 4,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 4,
+                    "start_region_line": 4
+                },
+                {
+                    "end_outermost_loop": 5,
+                    "end_region_line": 5,
+                    "line": "    print(x)\n",
+                    "lineno": 5,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 5,
+                    "start_region_line": 4
+                },
+                {
+                    "end_outermost_loop": 6,
+                    "end_region_line": 6,
+                    "line": "\n",
+                    "lineno": 6,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 6,
+                    "start_region_line": 6
+                },
+                {
+                    "end_outermost_loop": 8,
+                    "end_region_line": 8,
+                    "line": "def add(a,b):\n",
+                    "lineno": 7,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 7,
+                    "start_region_line": 7
+                },
+                {
+                    "end_outermost_loop": 8,
+                    "end_region_line": 8,
+                    "line": "    return a+b\n",
+                    "lineno": 8,
+                    "memory_samples": [
+                        [
+                            1606509416,
+                            234.75857639312744
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 76.20396709442139,
+                    "n_malloc_mb": 76.20396709442139,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 76.20396709442139,
+                    "n_python_fraction": 5.9000000000000004e-05,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.06216059535413885,
+                    "start_outermost_loop": 8,
+                    "start_region_line": 7
+                },
+                {
+                    "end_outermost_loop": 9,
+                    "end_region_line": 9,
+                    "line": "\n",
+                    "lineno": 9,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 9,
+                    "start_region_line": 9
+                },
+                {
+                    "end_outermost_loop": 11,
+                    "end_region_line": 11,
+                    "line": "def subtract(a,b):\n",
+                    "lineno": 10,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 10,
+                    "start_region_line": 10
+                },
+                {
+                    "end_outermost_loop": 11,
+                    "end_region_line": 11,
+                    "line": "    return a-b\n",
+                    "lineno": 11,
+                    "memory_samples": [
+                        [
+                            3584547404,
+                            387.45412254333496
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 76.20977306365967,
+                    "n_malloc_mb": 76.20977306365967,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 76.20977306365967,
+                    "n_python_fraction": 0.002642,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.062165331360914095,
+                    "start_outermost_loop": 11,
+                    "start_region_line": 10
+                },
+                {
+                    "end_outermost_loop": 12,
+                    "end_region_line": 12,
+                    "line": "\n",
+                    "lineno": 12,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 12,
+                    "start_region_line": 12
+                },
+                {
+                    "end_outermost_loop": 13,
+                    "end_region_line": 13,
+                    "line": "\n",
+                    "lineno": 13,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 13,
+                    "start_region_line": 13
+                },
+                {
+                    "end_outermost_loop": 23,
+                    "end_region_line": 23,
+                    "line": "def profile_me():\n",
+                    "lineno": 14,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 14,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 15,
+                    "end_region_line": 23,
+                    "line": "    \n",
+                    "lineno": 15,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 15,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 16,
+                    "end_region_line": 23,
+                    "line": "    x = np.array(range(10**7))\n",
+                    "lineno": 16,
+                    "memory_samples": [
+                        [
+                            1498764672,
+                            82.24852561950684
+                        ],
+                        [
+                            1498768694,
+                            92.24855613708496
+                        ],
+                        [
+                            1498772951,
+                            102.24856376647949
+                        ],
+                        [
+                            1498775725,
+                            112.24859428405762
+                        ],
+                        [
+                            1498777444,
+                            122.24862480163574
+                        ],
+                        [
+                            1498779306,
+                            132.24865531921387
+                        ],
+                        [
+                            1498781101,
+                            142.248685836792
+                        ],
+                        [
+                            1498782812,
+                            152.24869346618652
+                        ],
+                        [
+                            1498784493,
+                            162.24872398376465
+                        ],
+                        [
+                            1498788806,
+                            172.24875450134277
+                        ],
+                        [
+                            1498791348,
+                            182.2487850189209
+                        ],
+                        [
+                            1498793037,
+                            192.24881553649902
+                        ],
+                        [
+                            1498794803,
+                            202.24884605407715
+                        ],
+                        [
+                            1498796509,
+                            212.24887657165527
+                        ],
+                        [
+                            1498798115,
+                            222.2489070892334
+                        ],
+                        [
+                            1498799715,
+                            232.24891471862793
+                        ],
+                        [
+                            1498804267,
+                            242.24894523620605
+                        ],
+                        [
+                            1498806797,
+                            252.24897575378418
+                        ],
+                        [
+                            1498808523,
+                            262.2490062713623
+                        ],
+                        [
+                            1498810257,
+                            272.24903678894043
+                        ],
+                        [
+                            1498811928,
+                            282.24906730651855
+                        ],
+                        [
+                            1498813599,
+                            292.2490978240967
+                        ],
+                        [
+                            1498816710,
+                            302.2491283416748
+                        ],
+                        [
+                            1498820355,
+                            312.24915885925293
+                        ],
+                        [
+                            1498822108,
+                            322.24918937683105
+                        ],
+                        [
+                            1498823968,
+                            332.2492198944092
+                        ],
+                        [
+                            1498825653,
+                            342.2492504119873
+                        ],
+                        [
+                            1498827306,
+                            352.24928092956543
+                        ],
+                        [
+                            1498828972,
+                            362.24931144714355
+                        ],
+                        [
+                            1498832917,
+                            372.2493419647217
+                        ],
+                        [
+                            1498835765,
+                            382.2493724822998
+                        ],
+                        [
+                            1498848617,
+                            463.5298728942871
+                        ],
+                        [
+                            1498852855,
+                            453.529842376709
+                        ],
+                        [
+                            1498854567,
+                            443.52981185913086
+                        ],
+                        [
+                            1498855918,
+                            433.52978134155273
+                        ],
+                        [
+                            1498857252,
+                            423.5297508239746
+                        ],
+                        [
+                            1498858493,
+                            413.5297203063965
+                        ],
+                        [
+                            1498859744,
+                            403.52968978881836
+                        ],
+                        [
+                            1498864096,
+                            393.52965927124023
+                        ],
+                        [
+                            1498865893,
+                            383.5296287536621
+                        ],
+                        [
+                            1498867158,
+                            373.529598236084
+                        ],
+                        [
+                            1498868651,
+                            363.52956771850586
+                        ],
+                        [
+                            1498869857,
+                            353.52953720092773
+                        ],
+                        [
+                            1498871104,
+                            343.5295066833496
+                        ],
+                        [
+                            1498872350,
+                            333.5294761657715
+                        ],
+                        [
+                            1498873574,
+                            323.52944564819336
+                        ],
+                        [
+                            1498874784,
+                            313.52941513061523
+                        ],
+                        [
+                            1498879545,
+                            303.5293846130371
+                        ],
+                        [
+                            1498880865,
+                            293.529354095459
+                        ],
+                        [
+                            1498882088,
+                            283.52932357788086
+                        ],
+                        [
+                            1498883337,
+                            273.52929306030273
+                        ],
+                        [
+                            1498884620,
+                            263.5292625427246
+                        ],
+                        [
+                            1498885803,
+                            253.52923202514648
+                        ],
+                        [
+                            1498887255,
+                            243.52920150756836
+                        ],
+                        [
+                            1498888503,
+                            233.52917098999023
+                        ],
+                        [
+                            1498889684,
+                            223.5291404724121
+                        ],
+                        [
+                            1498894340,
+                            213.52910995483398
+                        ],
+                        [
+                            1498895705,
+                            203.52907943725586
+                        ],
+                        [
+                            1498897021,
+                            193.52904891967773
+                        ],
+                        [
+                            1498898279,
+                            183.5290184020996
+                        ],
+                        [
+                            1498899548,
+                            173.52898788452148
+                        ],
+                        [
+                            1498902142,
+                            163.52895736694336
+                        ],
+                        [
+                            1498903423,
+                            82.06798934936523
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.04612873134579201,
+                    "n_cpu_percent_c": 15.252641746039972,
+                    "n_cpu_percent_python": 0.24035735888191523,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 463.5298728942871,
+                    "n_malloc_mb": 463.5298728942871,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 463.5298728942871,
+                    "n_python_fraction": 0.8676644934805676,
+                    "n_sys_percent": 12.495701669552515,
+                    "n_usage_fraction": 0.37810751804870946,
+                    "start_outermost_loop": 16,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 17,
+                    "end_region_line": 23,
+                    "line": "    y = np.array(np.random.uniform(0, 100, size=(10**7)))\n",
+                    "lineno": 17,
+                    "memory_samples": [
+                        [
+                            1499585942,
+                            158.4601068496704
+                        ],
+                        [
+                            1606493860,
+                            234.851469039917
+                        ],
+                        [
+                            1606499201,
+                            158.55460929870605
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 74.9055589238645,
+                    "n_core_utilization": 0.03484593544551892,
+                    "n_cpu_percent_c": 0.7925619758195632,
+                    "n_cpu_percent_python": 0.18156746927787937,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 152.40650749206543,
+                    "n_malloc_mb": 152.40650749206543,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 152.40650749206543,
+                    "n_python_fraction": 6.100000991178226e-05,
+                    "n_sys_percent": 1.355480959107085,
+                    "n_usage_fraction": 0.12432002693263122,
+                    "start_outermost_loop": 17,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 18,
+                    "end_region_line": 23,
+                    "line": "    z=add(x,y)\n",
+                    "lineno": 18,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.05611196109030122,
+                    "n_cpu_percent_c": 0.22255788848134578,
+                    "n_cpu_percent_python": 0.146187878745769,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.17888816569034088,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 18,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 19,
+                    "end_region_line": 23,
+                    "line": "    m= np. array(range(10**7))\n",
+                    "lineno": 19,
+                    "memory_samples": [
+                        [
+                            2009808413,
+                            311.05237674713135
+                        ],
+                        [
+                            2009811502,
+                            321.0524072647095
+                        ],
+                        [
+                            2009813489,
+                            331.0524377822876
+                        ],
+                        [
+                            2009815182,
+                            341.0524682998657
+                        ],
+                        [
+                            2009816965,
+                            351.05249881744385
+                        ],
+                        [
+                            2009818732,
+                            361.052529335022
+                        ],
+                        [
+                            2009820380,
+                            371.0525598526001
+                        ],
+                        [
+                            2009822060,
+                            381.0525903701782
+                        ],
+                        [
+                            2009823700,
+                            391.05262088775635
+                        ],
+                        [
+                            2009825426,
+                            401.0526514053345
+                        ],
+                        [
+                            2009828497,
+                            411.0526819229126
+                        ],
+                        [
+                            2009830151,
+                            421.0527124404907
+                        ],
+                        [
+                            2009831840,
+                            431.05274295806885
+                        ],
+                        [
+                            2009833503,
+                            441.052773475647
+                        ],
+                        [
+                            2009835191,
+                            451.0528039932251
+                        ],
+                        [
+                            2009836978,
+                            461.0528345108032
+                        ],
+                        [
+                            2009838536,
+                            471.05286502838135
+                        ],
+                        [
+                            2009840334,
+                            481.0528955459595
+                        ],
+                        [
+                            2009841958,
+                            491.0529260635376
+                        ],
+                        [
+                            2009843576,
+                            501.0529565811157
+                        ],
+                        [
+                            2009845178,
+                            511.05298709869385
+                        ],
+                        [
+                            2009846794,
+                            521.053017616272
+                        ],
+                        [
+                            2009848446,
+                            531.0530481338501
+                        ],
+                        [
+                            2009850024,
+                            541.0530786514282
+                        ],
+                        [
+                            2009851556,
+                            551.0531091690063
+                        ],
+                        [
+                            2009853377,
+                            561.0531396865845
+                        ],
+                        [
+                            2009854950,
+                            571.0531702041626
+                        ],
+                        [
+                            2009856582,
+                            581.0532007217407
+                        ],
+                        [
+                            2009858230,
+                            591.0532312393188
+                        ],
+                        [
+                            2009859805,
+                            601.053261756897
+                        ],
+                        [
+                            2009861404,
+                            611.0532922744751
+                        ],
+                        [
+                            2551998665,
+                            692.517746925354
+                        ],
+                        [
+                            2552002591,
+                            682.5177164077759
+                        ],
+                        [
+                            2552004499,
+                            672.5176858901978
+                        ],
+                        [
+                            2552005972,
+                            662.5176553726196
+                        ],
+                        [
+                            2552007291,
+                            652.5176248550415
+                        ],
+                        [
+                            2552008531,
+                            642.5175943374634
+                        ],
+                        [
+                            2552009785,
+                            632.5175638198853
+                        ],
+                        [
+                            2552011143,
+                            622.5175333023071
+                        ],
+                        [
+                            2552012344,
+                            612.517502784729
+                        ],
+                        [
+                            2552013506,
+                            602.5174722671509
+                        ],
+                        [
+                            2552015028,
+                            592.5174417495728
+                        ],
+                        [
+                            2552016233,
+                            582.5174112319946
+                        ],
+                        [
+                            2552017427,
+                            572.5173807144165
+                        ],
+                        [
+                            2552018653,
+                            562.5173501968384
+                        ],
+                        [
+                            2552019892,
+                            552.5173196792603
+                        ],
+                        [
+                            2552021172,
+                            542.5172891616821
+                        ],
+                        [
+                            2552022403,
+                            532.517258644104
+                        ],
+                        [
+                            2552023669,
+                            522.5172281265259
+                        ],
+                        [
+                            2552024933,
+                            512.5171976089478
+                        ],
+                        [
+                            2552026135,
+                            502.51716709136963
+                        ],
+                        [
+                            2552027367,
+                            492.5171365737915
+                        ],
+                        [
+                            2552028594,
+                            482.5171060562134
+                        ],
+                        [
+                            2552030426,
+                            472.51707553863525
+                        ],
+                        [
+                            2552031656,
+                            462.51704502105713
+                        ],
+                        [
+                            2552032918,
+                            452.517014503479
+                        ],
+                        [
+                            2552034220,
+                            442.5169839859009
+                        ],
+                        [
+                            2552035420,
+                            432.51695346832275
+                        ],
+                        [
+                            2552036689,
+                            422.51692295074463
+                        ],
+                        [
+                            2552037941,
+                            412.5168924331665
+                        ],
+                        [
+                            2552039120,
+                            402.5168619155884
+                        ],
+                        [
+                            2552040363,
+                            392.51683139801025
+                        ],
+                        [
+                            2552041605,
+                            311.05586338043213
+                        ]
+                    ],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.055171675427108074,
+                    "n_cpu_percent_c": 12.971110045290652,
+                    "n_cpu_percent_python": 0.2874763255755495,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 457.5706844329834,
+                    "n_malloc_mb": 457.5706844329834,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 457.5706844329834,
+                    "n_python_fraction": 0.8333201619062786,
+                    "n_sys_percent": 6.767671469208565,
+                    "n_usage_fraction": 0.3732465283036064,
+                    "start_outermost_loop": 19,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 20,
+                    "end_region_line": 23,
+                    "line": "    time.sleep(1)\n",
+                    "lineno": 20,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0014096217007013182,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.34521236848633113,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 20.06288532151685,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 20,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 21,
+                    "end_region_line": 23,
+                    "line": "    a=subtract(z,m)\n",
+                    "lineno": 21,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.05036152213469073,
+                    "n_cpu_percent_c": 0.28206341700724435,
+                    "n_cpu_percent_python": 0.13120632300536494,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 1,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.2705687053176187,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 21,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 22,
+                    "end_region_line": 23,
+                    "line": "    print_out(a)\n",
+                    "lineno": 22,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 22,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 23,
+                    "end_region_line": 23,
+                    "line": "    print_out('ended')\n",
+                    "lineno": 23,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 23,
+                    "start_region_line": 14
+                },
+                {
+                    "end_outermost_loop": 25,
+                    "end_region_line": 24,
+                    "line": "if __name__==\"__main__\":    \n",
+                    "lineno": 24,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 24,
+                    "start_region_line": 24
+                },
+                {
+                    "end_outermost_loop": 25,
+                    "end_region_line": 25,
+                    "line": "    profile_me()\n",
+                    "lineno": 25,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 25,
+                    "start_region_line": 25
+                },
+                {
+                    "end_outermost_loop": 26,
+                    "end_region_line": 26,
+                    "line": "    \n",
+                    "lineno": 26,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 26,
+                    "start_region_line": 26
+                },
+                {
+                    "end_outermost_loop": 27,
+                    "end_region_line": 27,
+                    "line": "\n",
+                    "lineno": 27,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 27,
+                    "start_region_line": 27
+                },
+                {
+                    "end_outermost_loop": 28,
+                    "end_region_line": 28,
+                    "line": "# call: scalene --html --outfile results.html  test.py",
+                    "lineno": 28,
+                    "memory_samples": [],
+                    "n_avg_mb": 0.0,
+                    "n_copy_mb_s": 0.0,
+                    "n_core_utilization": 0.0,
+                    "n_cpu_percent_c": 0.0,
+                    "n_cpu_percent_python": 0.0,
+                    "n_gpu_avg_memory_mb": 0.0,
+                    "n_gpu_peak_memory_mb": 0.0,
+                    "n_gpu_percent": 0,
+                    "n_growth_mb": 0.0,
+                    "n_malloc_mb": 0.0,
+                    "n_mallocs": 0,
+                    "n_peak_mb": 0.0,
+                    "n_python_fraction": 0,
+                    "n_sys_percent": 0.0,
+                    "n_usage_fraction": 0.0,
+                    "start_outermost_loop": 28,
+                    "start_region_line": 28
+                }
+            ],
+            "percent_cpu_time": 100.0
+        }
+    },
+    "gpu": false,
+    "growth_rate": 31.61283861236825,
+    "max_footprint_fname": "/mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/scalene/test.py",
+    "max_footprint_lineno": 19,
+    "max_footprint_mb": 692.6119899749756,
+    "max_footprint_python_fraction": 0.063473,
+    "memory": true,
+    "program": "/mnt/c/Users/HP/asif_trail/flask_trial/flsk_env/presentation/scalene/test.py",
+    "samples": [
+        [
+            1498692529,
+            82.24852561950684
+        ],
+        [
+            1498695041,
+            92.24855613708496
+        ],
+        [
+            1498695761,
+            102.24856376647949
+        ],
+        [
+            1498696652,
+            112.24859428405762
+        ],
+        [
+            1498697150,
+            122.24862480163574
+        ],
+        [
+            1498697791,
+            132.24865531921387
+        ],
+        [
+            1498698857,
+            152.24869346618652
+        ],
+        [
+            1498700342,
+            182.2487850189209
+        ],
+        [
+            1498700765,
+            192.24881553649902
+        ],
+        [
+            1498703584,
+            202.24884605407715
+        ],
+        [
+            1498705590,
+            212.24887657165527
+        ],
+        [
+            1498707141,
+            242.24894523620605
+        ],
+        [
+            1498707801,
+            252.24897575378418
+        ],
+        [
+            1498709177,
+            282.24906730651855
+        ],
+        [
+            1498710267,
+            302.2491283416748
+        ],
+        [
+            1498710665,
+            312.24915885925293
+        ],
+        [
+            1498711551,
+            322.24918937683105
+        ],
+        [
+            1498712171,
+            332.2492198944092
+        ],
+        [
+            1498713030,
+            352.24928092956543
+        ],
+        [
+            1498714469,
+            382.2493724822998
+        ],
+        [
+            1498715569,
+            382.43785858154297
+        ],
+        [
+            1498716124,
+            463.7183589935303
+        ],
+        [
+            1498719904,
+            453.71832847595215
+        ],
+        [
+            1498722027,
+            443.718297958374
+        ],
+        [
+            1498722700,
+            433.7182674407959
+        ],
+        [
+            1498725003,
+            393.7181453704834
+        ],
+        [
+            1498726293,
+            373.71808433532715
+        ],
+        [
+            1498727059,
+            363.718053817749
+        ],
+        [
+            1498728265,
+            343.7179927825928
+        ],
+        [
+            1498730939,
+            293.71784019470215
+        ],
+        [
+            1498732888,
+            263.7177486419678
+        ],
+        [
+            1498733386,
+            253.71771812438965
+        ],
+        [
+            1498736526,
+            243.71768760681152
+        ],
+        [
+            1498737775,
+            223.71762657165527
+        ],
+        [
+            1498739954,
+            183.71750450134277
+        ],
+        [
+            1498741140,
+            163.71744346618652
+        ],
+        [
+            1498741688,
+            82.2564754486084
+        ],
+        [
+            1499499508,
+            82.35071849822998
+        ],
+        [
+            1499501260,
+            158.554349899292
+        ],
+        [
+            1499501941,
+            158.64859294891357
+        ],
+        [
+            1606477015,
+            234.851469039917
+        ],
+        [
+            1606480021,
+            158.55460929870605
+        ],
+        [
+            1606481025,
+            158.64885234832764
+        ],
+        [
+            1606481566,
+            234.85281944274902
+        ],
+        [
+            2009768038,
+            234.9470624923706
+        ],
+        [
+            2009774018,
+            311.14661979675293
+        ],
+        [
+            2009775170,
+            331.1466808319092
+        ],
+        [
+            2009775603,
+            341.1467113494873
+        ],
+        [
+            2009777938,
+            351.14674186706543
+        ],
+        [
+            2009779258,
+            381.1468334197998
+        ],
+        [
+            2009782126,
+            461.1470775604248
+        ],
+        [
+            2009783044,
+            471.14710807800293
+        ],
+        [
+            2009783697,
+            481.14713859558105
+        ],
+        [
+            2009784730,
+            501.1471996307373
+        ],
+        [
+            2009785921,
+            521.1472606658936
+        ],
+        [
+            2009788561,
+            571.1474132537842
+        ],
+        [
+            2009790486,
+            611.1475353240967
+        ],
+        [
+            2551953868,
+            611.2417783737183
+        ],
+        [
+            2551955866,
+            692.6119899749756
+        ],
+        [
+            2551958154,
+            682.6119594573975
+        ],
+        [
+            2551959548,
+            662.6118984222412
+        ],
+        [
+            2551966972,
+            652.6118679046631
+        ],
+        [
+            2551967625,
+            642.611837387085
+        ],
+        [
+            2551969811,
+            602.6117153167725
+        ],
+        [
+            2551971568,
+            572.6116237640381
+        ],
+        [
+            2551973995,
+            562.61159324646
+        ],
+        [
+            2551978729,
+            472.61131858825684
+        ],
+        [
+            2551979282,
+            462.6112880706787
+        ],
+        [
+            2551980070,
+            452.6112575531006
+        ],
+        [
+            2551983249,
+            392.61107444763184
+        ],
+        [
+            2551983773,
+            311.1501064300537
+        ],
+        [
+            3584534168,
+            387.54836559295654
+        ]
+    ],
+    "stacks": []
+}
