@@ -84,4 +84,4 @@ to see run ` scalene -h `
 scalene --html --outfile <path_to_output.html>  <main_script.py>
 ```
 
-* NB: Most of the profiling was done in wsl and linux machine. There are some limitations in windows.
+* Note: Most of the profiling was done in wsl and linux machine. There are some limitations in windows.
