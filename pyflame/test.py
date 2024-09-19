@@ -6,6 +6,8 @@ def print_out(x):
 def add(a,b):
     return a+b
 
+def multiply(a,b):
+    return a*b
 def subtract(a,b):
     return a-b
 def profile_me():

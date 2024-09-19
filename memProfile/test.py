@@ -1,5 +1,6 @@
 import numpy as np
 from memory_profiler import profile, memory_usage
+import os
 
 out_file=open('results.log','w+')
 @profile(stream=out_file)
