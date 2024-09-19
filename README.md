@@ -108,4 +108,4 @@ profile_me()
 ```
 Running the cell will generate a result of cpu runtime for the cell. Memory profiling is not available in .ipynb files. 
 
-- Note: Most of the profiling was done in wsl and linux machine. There are some limitations in windows.
+- Note: Most of the profiling was done in wsl and linux machine. There are some limitations in windows. 
